@@ -1,3 +1,3 @@
 # Hello ! 👋
 ## Salama !  
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=tokyRT&color=blueviolet&style=flat-square)
