@@ -1,5 +1,5 @@
 
-## Hi stranger! 👋✨
+## Hi stranger! 👋
 Checkout my portfolio 👉 [toky.netlify.com](toky.netlify.com)
 ![](https://komarev.com/ghpvc/?username=tokyRT&color=blueviolet&style=flat-square)  
 
