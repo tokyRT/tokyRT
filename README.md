@@ -1,7 +1,7 @@
 <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/8085dfe9b68c301a5055e6491b6b35ad/fire.gif" alt="header">
 <h1 align="center">Hi stranger! 👋</h1>
 <p align="center">Checkout my portfolio 👉 
-<a href="https://toky-rt.me">toky-rt.me</a><br><br>
+<a href="https://toky.netlify.app">toky.netlify.app</a><br><br>
 <img src="https://komarev.com/ghpvc/?username=tokyRT&color=blueviolet&style=flat-square"/><p>
 
 <p align="center">
